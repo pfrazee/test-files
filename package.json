@@ -1,6 +1,6 @@
 {
   "name": "test-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a set of test files",
   "main": "index.js",
   "dependencies": {
